@@ -1,6 +1,6 @@
 import { motion } from "framer-motion";
 import SectionHeading from "../SectionHeading";
-import beforeAfter from "@/assets/before-after.jpg";
+import beforeAfter from "@/assets/bolo_ante_depois_01.png";
 
 const BeforeAfterSection = () => (
   <section className="py-20 md:py-28 bg-dusty-pink-light">

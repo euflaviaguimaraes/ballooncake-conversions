@@ -20,12 +20,12 @@ const OfferSection = () => (
         <p className="font-body text-muted-foreground mb-6">Acesso completo + bônus exclusivos</p>
 
         <div className="mb-6">
-          <p className="font-body text-sm text-muted-foreground line-through">De R$ 497,00</p>
+          <p className="font-body text-sm text-muted-foreground line-through">De R$ 397,00</p>
           <p className="font-display text-5xl md:text-6xl font-bold text-primary">
-            R$ 297<span className="text-2xl">,00</span>
+            R$ 149<span className="text-2xl">,00</span>
           </p>
           <p className="font-body text-base text-muted-foreground mt-1">
-            ou 12x de R$ 29,06
+            ou 12x de R$ 12,41
           </p>
         </div>
 

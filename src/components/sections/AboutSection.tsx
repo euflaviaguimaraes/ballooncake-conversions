@@ -1,5 +1,5 @@
 import { motion } from "framer-motion";
-import claraPortrait from "@/assets/clara-portrait.jpg";
+import claraPortrait from "@/assets/clara_01.jpg";
 
 const AboutSection = () => (
   <section className="py-20 md:py-28 bg-background">

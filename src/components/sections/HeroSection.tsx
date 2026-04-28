@@ -1,6 +1,6 @@
 import { motion } from "framer-motion";
 import CTAButton from "../CTAButton";
-import heroCake from "@/assets/hero-cake.jpg";
+import heroCake from "@/assets/bolo_01.jpg";
 
 const HeroSection = () => (
   <section className="relative min-h-screen flex items-center overflow-hidden bg-coconut">

@@ -1,6 +1,6 @@
 import { motion } from "framer-motion";
 import SectionHeading from "../SectionHeading";
-import cakeCollection from "@/assets/cake-collection.jpg";
+import cakeCollection from "@/assets/bolo_05.jpg";
 
 const WhatIsBalloonCakeSection = () => (
   <section className="py-20 md:py-28 bg-muted">
